@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Lista de Filmes",
+    "slug": "lista-filmes-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true },
+    "android": { "edgeToEdgeEnabled": true },
+    "web": { "name": "Lista de Filmes" }
+  }
+}
